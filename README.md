@@ -6,6 +6,12 @@ I think the list scrolling effect of Apple's weather App is very interesting, so
 [weather_app_list_practice.webm](https://github.com/LittleSound/weather_app_list_practice/assets/19204772/17bebda7-a295-4263-8576-37c87eecbaae)
 
 
+## Main Files
+
+- [lib/main.dart](lib/main.dart)
+- [lib/grid_card.dart](lib/grid_card.dart)
+- [lib/home_controller.dart](lib/home_controller.dart)
+
 ## Run
 
 Before you can run this project, you need to have Flutter installed on your system. If you haven't installed Flutter yet, you can follow the steps on the [official Flutter website](https://flutter.dev/docs/get-started/install) to do so.
